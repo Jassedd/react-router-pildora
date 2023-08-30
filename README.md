@@ -12,6 +12,6 @@ Currently, two official plugins are available:
 1. Clona este repositorio en tu máquina local.
 2. Navega al directorio de tu proyecto y ejecuta el siguiente comando para instalar el proyecto:
 - npm install.
-- npm install react-router-dom.
+
 3. Inicia el servidor con:
 - npm run dev.
